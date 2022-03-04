@@ -1,0 +1,9 @@
+.tin {
+    text-align: justify;
+    line-height: 150%;
+}
+
+.tin .tieude a {
+    color: orangered;
+    text-decoration: none;
+}
